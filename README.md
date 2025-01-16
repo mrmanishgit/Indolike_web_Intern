@@ -114,3 +114,8 @@ Stop: Pauses the timer where it is, allowing you to resume or reset it.
 Reset: Resets the timer back to 00:00:00.
 ![Screenshot 2025-01-16 123425](https://github.com/user-attachments/assets/da2eb584-a211-4ed6-9f14-0a8711adf61d)
 
+contact
+------------
+Email:maharanamanish91@gmail.com
+phone:7205294038
+
