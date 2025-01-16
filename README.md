@@ -117,5 +117,5 @@ Reset: Resets the timer back to 00:00:00.
 contact
 ------------
 Email:maharanamanish91@gmail.com
-phone:7205294038
+------------phone:7205294038
 
