@@ -118,7 +118,7 @@ contact
 ------------
 Name:Manish Maharana
 Email:maharanamanish91@gmail.com
--phone:7205294038
+phone:7205294038
 Intern id - 217251136
 @indolike #indolike.
 
